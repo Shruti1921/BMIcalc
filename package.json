@@ -4,7 +4,20 @@
     "express": "^4.17.1"
   },
   "engines": {
-    "node":"16.13.0"
-  }
+    "node": "16.13.0"
+  },
+  "name": "bmicalc",
+  "version": "1.0.0",
+  "main": "calculator.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node calculator.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
+
 
